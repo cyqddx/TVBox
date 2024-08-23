@@ -8,13 +8,8 @@
 - 
 
 
-## ✨热门TVBox源
-- （1）唐三：https://gh.t4tv.hz.cz/newtang.bmp 
-- （2）Fongmi：https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json 
-- （3）俊于：http://home.jundie.top:81/top98.json 
-- （4）饭太硬：http://饭太硬.top/tv 
-- （5）肥猫：http://我不是.肥猫.love:63/接口禁止贩卖 
-- （6）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json 
+## ✨热门TVBox
+- （6）霜辉月明py：cc 
 - （7）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json 
 - （8）小雅：http://drpy.site/js1 
 - （9）菜妮丝：https://tvbox.cainisi.cf 
